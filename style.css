@@ -1,0 +1,19 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #ff0000, #ff0000, #ff0000, #ff0000, #ff0000);
+}
+#output
+{
+  background: white;
+  border-radius: 10px;
+  border-top: 10px solid #AA4465;
+  padding: 10px;
+  float: none;
+  text-align: left;
+}
